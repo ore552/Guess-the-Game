@@ -81,7 +81,7 @@ btn.addEventListener("click", (e)=>{
         remark.style.color = "white";
         clear();
        };
-       gameImg.src = "images/"+games[indexNumber]+".png";
+       gameImg.src = "games[indexNumber]+".png";
     };              
 });
 
